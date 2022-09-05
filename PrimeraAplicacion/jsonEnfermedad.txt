@@ -1,0 +1,122 @@
+[
+  {
+    "Nombre: " : "l'Inflammation Enragee",
+    "Secuencia: " : "CGTTTA"
+  },
+  {
+    "Nombre: " : "l'Estomac Remediable",
+    "Secuencia: " : "GAGCATCT"
+  },
+  {
+    "Nombre: " : "les Verrues de Desert",
+    "Secuencia: " : "TCTATG"
+  },
+  {
+    "Nombre: " : "l'Intoxication Impossible",
+    "Secuencia: " : "TCATG"
+  },
+  {
+    "Nombre: " : "la Rougeole Argentee",
+    "Secuencia: " : "TATTGC"
+  },
+  {
+    "Nombre: " : "l'Anthropophagie de Roc",
+    "Secuencia: " : "AGTCTT"
+  },
+  {
+    "Nombre: " : "la Mort Engourdie",
+    "Secuencia: " : "CTAGTT"
+  },
+  {
+    "Nombre: " : "l'Anxiete de Sommeil",
+    "Secuencia: " : "ATTACGCG"
+  },
+  {
+    "Nombre: " : "l'Insuffisance de Sorcier",
+    "Secuencia: " : "GTACATCG"
+  },
+  {
+    "Nombre: " : "la Plaie de Marais",
+    "Secuencia: " : "CGATTAGC"
+  },
+  {
+    "Nombre: " : "le Dysfonctionnement de Diable",
+    "Secuencia: " : "TCTGGAAC"
+  },
+  {
+    "Nombre: " : "les Ampoules de Jungle",
+    "Secuencia: " : "ATCATGG"
+  },
+  {
+    "Nombre: " : "la Peau Sauvage",
+    "Secuencia: " : "CACGTAGT"
+  },
+  {
+    "Nombre: " : "l'Allergie Pestilentielle",
+    "Secuencia: " : "TTGCAT"
+  },
+  {
+    "Nombre: " : "l'Insuffisance de Froid",
+    "Secuencia: " : "CTGTA"
+  },
+  {
+    "Nombre: " : "la Bronchite Horrible",
+    "Secuencia: " : "GTACT"
+  },
+  {
+    "Nombre: " : "les Crampes Violent",
+    "Secuencia: " : "GGATATCC"
+  },
+  {
+    "Nombre: " : "les Yeux Contagieux",
+    "Secuencia: " : "GGAATCCT"
+  },
+  {
+    "Nombre: " : "la Diphterie Rampante",
+    "Secuencia: " : "GAATGTCC"
+  },
+  {
+    "Nombre: " : "l'Ulcere Paralysant",
+    "Secuencia: " : "AGTCAGT"
+  },
+  {
+    "Nombre: " : "l'Eternuement Impossible",
+    "Secuencia: " : "TGGACTCA"
+  },
+  {
+    "Nombre: " : "le Choc Rongeur",
+    "Secuencia: " : "TTCAGGA"
+  },
+  {
+    "Nombre: " : "les Frissons de Dragon",
+    "Secuencia: " : "GTCTGCAA"
+  },
+  {
+    "Nombre: " : "la Cecite de Contractions",
+    "Secuencia: " : "AGTCT"
+  },
+  {
+    "Nombre: " : "les Yeux de Lion",
+    "Secuencia: " : "TAACTGCG"
+  },
+  {
+    "Nombre: " : "la Scarification Souriante",
+    "Secuencia: " : "CTTAG"
+  },
+  {
+    "Nombre: " : "la Pourriture de Chat",
+    "Secuencia: " : "CTTCGAAG"
+  },
+  {
+    "Nombre: " : "la Rage Inconstante",
+    "Secuencia: " : "GTACATG"
+  },
+  {
+    "Nombre: " : "la Sterilite de la Memoire",
+    "Secuencia: " : "CCAAGGTT"
+  },
+  {
+    "Nombre: " : "les Verrues d'Etranger",
+    "Secuencia: " : "ATCAGGTC"
+  }
+]
